@@ -4,7 +4,7 @@
 
 ## Team
 
-🖥 Teams meeting URL: ❔
+🖥 Teams meeting URL: <https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDJhZWQ3YzMtZWMyNC00MjMzLTg0YjYtMjgzNDM0M2E0YmVk%40thread.v2/0?context=%7b%22Tid%22%3a%2239626157-a047-4689-87a2-6fa645cb5cb7%22%2c%22Oid%22%3a%22aefb711d-ef54-4cf4-93bf-5be71c719788%22%7d>
 
   - Student 1: ❔ Asmae Soughou
 
