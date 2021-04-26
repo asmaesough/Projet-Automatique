@@ -6,11 +6,11 @@
 
 🖥 Teams meeting URL: ❔
 
-  - Student 1: ❔
+  - Student 1: ❔ Asmae Soughou
 
-  - Student 2: ❔
+  - Student 2: ❔ Khalid Forssa
 
-  - Student 3: ❔
+  - Student 3: ❔ Hicham Yacoubi
 
   - Student 4: ❔
 
